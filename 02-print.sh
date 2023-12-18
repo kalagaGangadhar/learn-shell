@@ -3,8 +3,8 @@ echo hello world
 #red        31
 #green      32
 #yellow     33
-#magenta    34
-#blue       35
+#blue       34
+#magenta    35
 #cyan       36
 
 
